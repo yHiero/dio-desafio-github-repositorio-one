@@ -1,0 +1,6 @@
+Olá me chamo Herik, tenho 26 anos e estudo progamação a uns 6 meses,
+estou amando muito e sempre fui muito próximo da tecnologia desde cedo,
+mas nunca tive a oportunidade de me aprofundar nela de fato. Com a ajuda da DIO e da Rocketseat
+estou tendo a oportunidade de estudar e focar em desenvolvimento web inicialmente usando Html, css e javascript.
+Meu intuito é ir para o desenvolvimento de jogos e apps no futuro, principalmente mobile, já que amo muito essa
+area.
