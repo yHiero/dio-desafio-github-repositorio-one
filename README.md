@@ -1,2 +1,3 @@
-# dio-desafio-github-repositorio-one
-Repositório para estudos da DIO
+# Desafio de projeto da DIO sobre Git | Github
+
+### Repositório para estudos da DIO
