@@ -1,0 +1,11 @@
+Link de Download do Git:
+
+https://git-scm.com/downloads
+
+Link do GitHub:
+
+https://github.com/
+
+Link de Download do Visual Studio Code:
+
+https://code.visualstudio.com/Download
